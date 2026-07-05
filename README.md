@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-17-orange)
+![JDBC](https://img.shields.io/badge/JDBC-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Employee Management System
 
 A console-based **Employee Management System** developed using **Core Java, JDBC, and MySQL**. This project demonstrates CRUD operations, database connectivity, object-oriented programming principles, and the DAO (Data Access Object) design pattern.
