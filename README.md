@@ -187,7 +187,7 @@ Through this project, I gained practical experience in:
 
 **Shubham Chakraborty**
 
-Aspiring Java Backend Developer
+EDI Mapper | Aspiring Java Backend Developer
 
 LinkedIn: https://www.linkedin.com/in/shubham-chakraborty-642027226/
 
